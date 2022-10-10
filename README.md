@@ -1,2 +1,3 @@
 # AI_ML_programs
-In this repository, all the programs (games and other codes) learnt in Artificial Intelligence and machine learning course has been added.
+This repository contains all the problems (games and other programs) solved in Artificial Intelligence and Machine learning course. 
+The formation of problem statement, its solution and the concepts used has been mentioned. 
